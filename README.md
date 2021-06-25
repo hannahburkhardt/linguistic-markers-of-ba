@@ -16,6 +16,6 @@ Burkhardt HA, Alexopoulos GS, Pullmann MD, Hull TD, Areán PA, Cohen T. Behavior
 
 ## Files
 
-`liwc_ba.dic` This is the LIWC dictionary file containing the 8 behavioral actiavtion term sets developed in this work.
+`liwc_ba.dic` This is the LIWC dictionary file containing the 8 behavioral activation term sets developed in this work.
 
 `liwc_ba.json` A json representation of the term sets (may be more human-readable)
