@@ -1,0 +1,1069 @@
+%
+1 behavioral_activation
+2 satisfaction
+3 breadth
+4 decisions
+5 accomplishment
+6 longterm
+7 effort_enjoyment
+8 structure
+%
+acceptence	1	2	5	6
+accomplish	1	2	5	6	8
+accomplishable	1	2	5	6	8
+accomplished	1	2	5	6	8
+accomplishing	1	2	5	6	8
+accomplishment	1	2	5
+accomplishments	1	2	5
+accountability	1	8
+accustom	1	4
+acheive	1	5	6	8
+acheivements	1	6
+achievable	1	2	5	6	8
+achieve	1	2	5	6	8
+achieved	1	2	5	6	8
+achievement	1	2	5
+achievements	1	2	5
+achieving	1	2	5	6	8
+achiving	1	5	6	8
+acomplish	1	4	7
+acomplishments	1	4	7
+acoustic	1	3
+acrobat	1	3
+acroyoga	1	2	3	7
+actioned	1	7
+actioning	1	5	6	8
+activations	1	3	7	8
+active	1	3
+actives	1	3
+activities	1	3
+activity	1	3
+actualisation	1	2	5
+adapt	1	6	7
+adjudicated	1	3
+adjust	1	6	7
+admire	1	2	7
+adore	1	2	7
+adventure	1	4
+adventures	1	4
+adventuresome	1	4
+adventurous	1	4
+aerobic	1	3
+affectionate	1	4	6	8
+affirm	1	2	4	7
+ahead	1	4	6	8
+aim	1	5	6	8
+aiming	1	5	6	8
+aknowledge	1	2	4	7
+aknowledging	1	6	7
+altruistically	1	2	4	7
+amadeus	1	3
+amazing	1	2	5	7
+ambitions	1	5	6	8
+ameliorations	1	4
+anthologies	1	2	7
+appetizers	1	3
+appointments	1	8
+appreciative	1	4	6	8
+architecting	1	8
+arousals	1	4
+art	1	3
+artform	1	3
+artfx	1	2	3	7
+artist	1	3
+arts	1	3
+artwork	1	3
+aspirations	1	5	6	8
+assemblage	1	3
+assignable	1	2	5
+assignement	1	2	5
+athlete	1	3
+attain	1	2	5
+attainable	1	5	6	8
+attend	1	3	7	8
+attending	1	3
+attentative	1	4	6	8
+attentive	1	4	6	8
+autobiographies	1	2	7
+autocross	1	3
+autonomously	1	8
+avaible	1	8
+availability	1	8
+availble	1	8
+avocation	1	3
+award	1	4	7
+awesome	1	2	7
+baby	1	6
+bachelerette	1	3	7	8
+bachelors	1	2	5
+backstreet	1	3
+badminton	1	3
+bakeries	1	3
+bakery	1	3
+banjo	1	3
+bar	1	3
+baritone	1	3
+barometers	1	2
+baseball	1	3
+basketball	1	3
+bass	1	3
+basses	1	3
+bedtime	1	8
+begotten	1	4
+behoove	1	6	7
+benchmarks	1	5	6	8
+beneficial	1	6
+benefit	1	6
+benefits	1	6
+bettering	1	4	7
+bew	1	4	6	8
+bigggg	1	2	5
+billables	1	4
+birth	1	6
+birthcontrol	1	6
+births	1	6
+biweekly	1	8
+bkfst	1	7
+blacklivesmatter	1	3
+bmx	1	3
+boatyard	1	2	5
+bodyweight	1	3
+bookbinding	1	3
+born	1	6
+borns	1	6
+bossa	1	3
+bowery	1	3
+boyscout	1	3
+brainier	1	4
+brave	1	2	5
+breaststroke	1	3
+bridezillas	1	3
+briefings	1	3
+bst	1	8
+budget	1	4	6	8
+bulletpoint	1	5	6	7	8
+bunco	1	3
+businesss	1	4	6	7
+bwahahaha	1	7
+caching	1	4	6	8
+cadences	1	3
+caffeinate	1	7
+caligraphy	1	3
+calisthenics	1	3
+calmness	1	2	5
+calzones	1	3
+cando	1	3
+capably	1	6	7
+cardio	1	3
+career	1	6
+carefree	1	4
+caring	1	4	6	8
+cartooning	1	3
+cavs	1	3
+cello	1	3
+ceramicist	1	3
+ceramics	1	3
+cesarean	1	6
+chainsmoking	1	3
+challenge	1	6	7
+challenged	1	6	7
+challenges	1	6	7
+challenging	1	6	7
+championships	1	4	7
+chance	1	4	7
+chances	1	4	7
+change	1	6	7
+changed	1	6	7
+changes	1	6	7
+changing	1	6	7
+changr	1	6	7
+channelise	1	4	7
+chaoticness	1	3
+choice	1	4
+choices	1	4
+chore	1	3
+choreographers	1	4	7
+choreographies	1	4	7
+churros	1	3
+clarinet	1	3
+classical	1	3
+classpass	1	4	6	8
+coach	1	3
+coaches	1	3
+codify	1	6	7
+cohosting	1	3	7	8
+collaging	1	3
+collectables	1	3
+collectives	1	2	7
+colorguard	1	4	7
+commit	1	4	6	7
+commiting	1	4	6	7
+commitment	1	4	6	7
+commits	1	4	6	7
+committ	1	4	6	7
+committed	1	4	6	7
+committing	1	4	6	7
+communes	1	3
+communicative	1	4	6	8
+compassionate	1	4	6	8
+competative	1	3
+compete	1	4	7
+competing	1	4	7
+competition	1	4	7
+competitions	1	4	7
+competitive	1	4	7
+competitve	1	4	7
+composes	1	3
+concentrate	1	4	7
+concentrating	1	4	7
+concurrence	1	5	6	8
+concurring	1	2	4	7
+conde	1	2	5
+confidince	1	6
+conscientious	1	4	6	8
+considerate	1	4	6	8
+consistency	1	8
+consistent	1	8
+consistently	1	8
+constraining	1	8
+content	1	2	5
+contentedness	1	2	5
+contentment	1	2	5
+contentness	1	2	5
+contest	1	4	7
+contests	1	4	7
+continuing	1	5	6	8
+contraception	1	6
+contraceptive	1	6
+controle	1	6	7
+corefit	1	8
+cosigners	1	6
+cosleeps	1	8
+craft	1	3
+crafting	1	3
+crafts	1	3
+craftsy	1	3
+craigslisting	1	4	6	8
+creative	1	3
+credit	1	6
+crewing	1	3
+crossfit	1	3
+crossfitters	1	3
+crystalized	1	2	5
+currencies	1	6	7
+daily	1	8
+dancy	1	2	7
+datey	1	7
+daylong	1	3
+deadlines	1	8
+dealth	1	6
+dearly	1	2	7
+decide	1	4	6	7
+decided	1	4
+deciding	1	4
+decision	1	4
+decisions	1	4
+decisive	1	4
+decisons	1	4
+decompresses	1	2	7
+decsion	1	6	7
+dedications	1	2	7
+degree	1	2	5
+deicision	1	5	6	8
+derive	1	2	5
+descision	1	4
+descisions	1	7
+desicion	1	4
+design	1	3
+desired	1	2
+detoxifying	1	7
+diner	1	3
+dinner	1	3
+diocesan	1	3
+discipline	1	8
+discpline	1	8
+disprove	1	2	4	7
+dividend	1	6	7
+diys	1	3
+dodgeball	1	3
+doomies	1	3
+dormed	1	4
+doting	1	4	6	8
+driven	1	4
+drums	1	3
+dualities	1	2	5
+duets	1	3
+dugout	1	3
+eager	1	7
+earls	1	2	7
+earning	1	6
+easygoing	1	4
+eatery	1	3
+edm	1	3
+education	1	2	5
+efffort	1	7
+effort	1	5	6	7
+efforts	1	5	6	7
+elaborately	1	3
+electronica	1	3
+eliptical	1	3
+elliptical	1	3
+embroider	1	3
+emergancy	1	4	6	8
+emigrating	1	6
+empathetic	1	4	6	8
+empower	1	2	4	7
+empowering	1	2	7
+encorporating	1	7	8
+encourage	1	3
+encouraging	1	2	7
+energetic	1	7
+energised	1	7
+energize	1	7
+energized	1	7
+energizes	1	7
+energizing	1	7
+energy	1	5	6	7
+engage	1	3
+engendering	1	7
+enjoy	1	2	7
+enjoyable	1	2	7
+enjoyably	1	2	3	7
+enjoyed	1	2	7
+enjoying	1	2	7
+enjoyment	1	2	5	7
+enjoys	1	2	7
+enthuse	1	2	7
+enthusiastic	1	7
+enthusiastically	1	7
+ephemera	1	3
+equips	1	4
+essayist	1	2	7
+euphonium	1	3
+evenings	1	8
+evenning	1	7
+event	1	3	7	8
+eventbrite	1	3	7	8
+events	1	3	7	8
+every	1	8
+everyday	1	8
+excercise	1	3
+excerise	1	3
+excited	1	7
+excitement	1	2	5
+exciting	1	7
+execise	1	3	4	6	7
+execute	1	2	5
+exercise	1	3	8
+exercises	1	3
+exercising	1	3	8
+exercizes	1	3
+exericse	1	3
+exerise	1	3	4
+exhibitions	1	3
+exicted	1	7
+expecation	1	2	5
+expends	1	3
+explorers	1	3
+extracurricular	1	3
+fach	1	3
+fanfics	1	3
+fantastic	1	2	7
+farmville	1	3
+farwell	1	3	7	8
+fascinating	1	2	7
+fearless	1	4
+feat	1	2	5
+fictionalized	1	2	7
+fiddly	1	3
+finalists	1	4	7
+finalllllly	1	4	7
+find	1	2	5
+fitness	1	3
+fixe	1	3
+fleeting	1	2	5
+flexibility	1	8
+flexible	1	8
+flexiblity	1	2	5
+flexibly	1	2	7
+flute	1	3
+fma	1	3
+focus	1	4	7
+focused	1	4	7
+focusing	1	4	7
+focussing	1	4	7
+football	1	3
+forbearance	1	6
+formations	1	7
+fortifying	1	5	6	8
+forward	1	5	6	8
+framework	1	8
+freeeeeee	1	2	7
+frequent	1	8
+frequently	1	8
+friendly	1	7
+frontrunner	1	4	7
+fruitfully	1	2	5
+fuel	1	7
+fueled	1	7
+fueling	1	7
+fuels	1	7
+fufill	1	4	6	7
+fufilled	1	2
+fulfilled	1	2	5
+fulfilling	1	2	5
+fulfillment	1	2	5
+fulfills	1	2
+fulfils	1	2	5
+fullfil	1	3
+fulness	1	3
+fun	1	2	7
+fundraiser	1	3	7	8
+gainful	1	6
+galleries	1	3
+game	1	3
+gamifies	1	6	7
+gantry	1	3
+gastropub	1	3
+generous	1	4	6	8
+gentlemanly	1	4	6	8
+gestation	1	6
+getaways	1	4
+givinf	1	2
+glacial	1	5	6	8
+gloria	1	2	7
+goal	1	2	4	5	6	8
+goals	1	2	5	6	8
+godliness	1	2	5
+going	1	4	6	8
+golf	1	3
+gonout	1	2	7
+goodnatured	1	7
+grateful	1	2	5	7
+gratification	1	2
+grattitude	1	2	4	7
+great	1	2	7
+grille	1	3
+groove	1	8
+guidelines	1	8
+guitar	1	3
+guitarists	1	3
+gussied	1	2	5
+gym	1	3
+habits	1	8
+handbell	1	3
+handbells	1	3
+handcrafts	1	3
+handlettering	1	2	7
+hanukkah	1	7
+happines	1	2
+happiness	1	2	5
+happy	1	2	5
+happyness	1	2	5
+happyÃ°Ã¿	1	2	5
+harmonicas	1	3
+harnessing	1	6	7
+harpers	1	2	7
+harpsichord	1	3
+headedly	1	6	7
+headway	1	5	6	8
+hibachi	1	3
+hibernated	1	7
+hiphop	1	3
+hobbie	1	3
+hobbies	1	3
+hobby	1	3
+hobbyist	1	2	3	7
+hobbys	1	2	3	7
+hockey	1	3
+homebirth	1	6
+homebirths	1	6
+hooper	1	3	4	7	8
+hormones	1	6
+horomone	1	6
+hosted	1	3	7	8
+hosting	1	3	7	8
+hurdle	1	6	7
+hyphenating	1	4
+illustration	1	3
+impassible	1	6	7
+impetuous	1	4
+implanon	1	6
+importances	1	2	5	6	8
+impressed	1	2	5
+impressionist	1	2	3	7
+impressive	1	2	5
+improve	1	2	5	6	8
+improvement	1	5	6	8
+improvements	1	5	6	8
+improving	1	5	6	8
+impulsive	1	4
+incredible	1	2	7
+incremental	1	5	6	8
+independency	1	2	7
+infinitum	1	2	5
+ingratiating	1	7
+initiators	1	3
+insightfulness	1	2	4	7
+inspiration	1	2	7
+inspirational	1	2	7
+inspire	1	2	7
+inspired	1	2	7
+inspires	1	2	7
+inspiring	1	2	7
+instrument	1	3
+instrumentals	1	3
+instruments	1	3
+intelligent	1	4	6	8
+interested	1	7
+interests	1	3
+intergalactic	1	3
+intramural	1	3
+intuitiveness	1	2	7
+invest	1	6	7
+invested	1	6	7
+investing	1	6	7
+investment	1	6	7
+invests	1	6	7
+invigorate	1	7
+invigorated	1	7
+invited	1	3	7	8
+involve	1	3
+involved	1	3
+involvement	1	3
+involvements	1	3
+involving	1	3
+isometric	1	3
+iuds	1	6
+iwork	1	8
+janurary	1	8
+jazz	1	3
+jazzed	1	7
+jehovas	1	3
+jiujitsu	1	3
+jobwise	1	2
+jockeying	1	4
+join	1	3
+joined	1	3
+joy	1	2	5
+joyful	1	2	5
+jumanji	1	7
+juried	1	4	7
+kabbalah	1	2	7
+kaizen	1	6	7
+kareoke	1	7
+kindhearted	1	4	6	8
+kindling	1	7
+kizomba	1	3
+knickknacks	1	3
+lacrosse	1	3
+laudable	1	2	5
+launchpad	1	2	7
+laundrymat	1	7
+league	1	3
+leagues	1	3
+lecherous	1	4	6	7	8
+lessons	1	3
+life	1	6
+listener	1	4	6	8
+llife	1	6
+loan	1	6
+loans	1	6
+longboarding	1	7
+longing	1	2	5
+loooved	1	3
+love	1	2	7
+loved	1	2	7
+loves	1	2	7
+loving	1	2	4	6	7	8
+lullabies	1	3
+lyrically	1	2	7
+maille	1	3
+mainstay	1	3
+manageability	1	5	6	8
+mangeable	1	5	6	8
+mantain	1	8
+marbling	1	3
+marvellous	1	2	7
+massmoca	1	2	3	7
+masterclasses	1	3
+matriculated	1	4
+mbalaunch	1	3	7	8
+measurable	1	5	6	8
+measureable	1	2	5	6	8
+medidating	1	7
+meditate	1	3
+meditation	1	3
+meditational	1	3
+melodic	1	3
+metalsmith	1	3
+metalsmithing	1	3
+mhn	1	8
+mighy	1	3
+milestone	1	2	5
+minature	1	3
+mindfull	1	4	7
+miniatures	1	3
+mirena	1	6
+mixology	1	7
+momentum	1	5	6	8
+mommyhood	1	2	7
+moning	1	8
+monogomy	1	4	6	7
+mont	1	4	6	8
+month	1	4	6	8
+monthly	1	8
+mornings	1	8
+motivate	1	2	5
+motivated	1	2	3	5	7
+motivating	1	7
+motivational	1	2	7
+mountaineers	1	7
+moveout	1	4	6	8
+multitasked	1	3
+music	1	3
+mwf	1	8
+nack	1	4	6	8
+nba	1	3
+ncaa	1	3
+neaten	1	6
+needlecraft	1	3
+needlework	1	3
+nerded	1	7
+nervous	1	7
+netball	1	3
+nexplanon	1	6
+next	1	4	6	8
+nice	1	7
+nighttime	1	8
+nominations	1	4	7
+nourishing	1	7
+nuvaring	1	6
+objectives	1	5	6	8
+oboe	1	3
+obstacle	1	6	7
+obtainable	1	5	6	8
+occasionally	1	8
+offshoots	1	4
+olympian	1	3
+omakase	1	3
+once	1	8
+operationalizing	1	2	4	7
+opportunities	1	4
+opportunity	1	4	7
+optimistic	1	7
+orangetheory	1	3
+organisers	1	3	7	8
+orientedness	1	8
+outdoors	1	2	7
+outing	1	3	7	8
+outings	1	3
+outlet	1	3
+overachieve	1	2	5
+overfocus	1	5	6	8
+overheads	1	4	6	8
+overpromising	1	2	5
+ownself	1	2	5
+owrk	1	4	6	8
+painting	1	3
+paintnite	1	7
+paleontology	1	3
+palying	1	7
+parish	1	3
+partake	1	3
+participant	1	3
+participate	1	3
+participated	1	3
+participating	1	3
+participation	1	3
+participative	1	7
+parties	1	3	7	8
+party	1	3	7	8
+pasic	1	3
+pastored	1	3
+payoff	1	6
+payout	1	6
+peace	1	2	5
+peacefulness	1	2	5
+pell	1	6
+pensionable	1	6
+peppier	1	7
+per	1	8
+perfext	1	2
+photography	1	3
+pianists	1	3
+piano	1	3
+piccolo	1	3
+pingpong	1	7
+pinteresty	1	2	7
+piÃ±ata	1	7
+plan	1	4	5	6	8
+plankhouse	1	3	7	8
+planned	1	4	6	8
+planning	1	4	6	8
+plans	1	4	6	8
+playful	1	4	6	7	8
+pleasure	1	2
+plesant	1	2	5
+plyometrics	1	3
+pokemongo	1	3
+polymer	1	3
+portraiture	1	2	7
+position	1	4
+possiblities	1	6
+possition	1	4
+pottery	1	3
+powerful	1	2	7
+powerhouses	1	2	7
+powerlifter	1	3
+powerlifting	1	3
+praised	1	2	5
+prayerful	1	2	5
+preapproved	1	6
+preeclampsia	1	6
+pregnancies	1	6
+pregnancy	1	6
+pregnant	1	6
+prep	1	4	6	8
+preparation	1	4	6	8
+preparations	1	4	6	8
+preparing	1	4	6	8
+prepayment	1	8
+prepping	1	4	6	8
+presbyterian	1	3
+preseason	1	3
+present	1	4	7
+prettyyyy	1	2	7
+printmaking	1	3
+priorities	1	5	6	8
+prioritize	1	4	7
+prize	1	4	7
+probates	1	3
+productive	1	2	5	7
+progestin	1	6
+progress	1	2	5	6	8
+progressing	1	5	6	8
+progresss	1	2	5	6	8
+promise	1	4	6	7
+prospers	1	2	5
+proud	1	2	5
+prouder	1	2	5
+proudest	1	2	5
+psyched	1	7
+psychocybernetics	1	2	5	6	7	8
+puppeteering	1	3
+purpose	1	2
+pursue	1	4	6	7
+pursueing	1	2	5
+putzed	1	3
+quilting	1	3
+rackets	1	3
+rambunctiousness	1	4
+rare	1	4
+reachout	1	6
+reaffirm	1	2	4	7
+reaffirmations	1	6	7
+realistic	1	5	6	8
+reallocate	1	6	7
+reasses	1	5	6	8
+reasuring	1	2	7
+recalculate	1	6
+recepies	1	3
+receptions	1	3	7	8
+receptive	1	4	6	8
+receptivity	1	6
+recharged	1	7
+recognition	1	2	5
+recommit	1	4	6	7
+reconfirms	1	2	4	7
+reconvening	1	4	6	7
+redeveloping	1	2	5
+redirect	1	4	7
+redrafting	1	4	6	8
+reenergizing	1	2	7
+reengaged	1	2	5
+reengaging	1	5	6	8
+refinding	1	2	5	6
+refocus	1	4	7
+refocusing	1	4	7
+refreshed	1	7
+refreshing	1	7
+refueling	1	7
+reggae	1	3
+regimen	1	8
+regimented	1	8
+regionals	1	4	7
+regualr	1	8
+regular	1	8
+regularly	1	8
+reinforce	1	2	4	7
+reinterpret	1	2	4	7
+reinvesting	1	6	7
+reinvigorating	1	7
+rejuvenated	1	7
+rejuvenating	1	7
+relatiobship	1	4	7
+relationship	1	6
+relatonships	1	6
+relaunch	1	2	5
+relaxations	1	3
+relaxing	1	2	7
+relegating	1	4
+remixed	1	3
+remixes	1	3
+remortgage	1	6
+remuneration	1	6
+renfest	1	7
+rennovations	1	6
+repents	1	6	7
+repertory	1	3
+repetitve	1	4	7
+reproductively	1	2	4	7
+republish	1	2	7
+resect	1	4
+reshift	1	6	7
+resinate	1	2	5
+resolutions	1	5	6	8
+respectful	1	4	6	8
+responsive	1	4	6	8
+ressources	1	6
+restaraunt	1	3
+restaurant	1	3
+restaurants	1	3
+restauraunt	1	3
+rested	1	7
+resteraunt	1	3
+restorative	1	7
+restos	1	3
+restrung	1	3
+resturant	1	3
+retirement	1	6
+rewinds	1	2	7
+rhythm	1	8
+righteously	1	2	4	7
+rigth	1	2	5
+rimes	1	3
+risidual	1	2	5
+riverboat	1	4
+rnb	1	3
+rockies	1	7
+rollercon	1	3	7	8
+rollrrcoasters	1	4
+roth	1	6
+rountine	1	6	7
+routine	1	8
+routines	1	8
+rsvped	1	3	7	8
+rugby	1	3
+rutt	1	5	6	8
+salpingectomy	1	6
+salutary	1	8
+sandberg	1	2	7
+satisfaction	1	2	5
+satisfied	1	2	5
+satisfy	1	2
+satisfying	1	2
+savings	1	6
+savour	1	2
+saxophone	1	3
+scansion	1	2	7
+scatteredness	1	4
+scavenging	1	3
+scenary	1	7
+schdule	1	8
+schedule	1	8
+scheduled	1	8
+schedules	1	8
+scheduling	1	8
+schefule	1	8
+scholl	1	4
+scorer	1	6	7
+scrapbooked	1	3
+screenprinting	1	3
+scrimmaging	1	3
+sculpture	1	3
+sequoia	1	4
+sesssion	1	8
+sewing	1	3
+shelfs	1	3
+shmancy	1	3
+showtunes	1	3
+shreya	1	2	7
+simplicities	1	2	7
+sing	1	3
+singing	1	3
+situatuon	1	4	7
+situps	1	3
+ska	1	3
+skateboarders	1	3
+sketching	1	3
+skilful	1	2	4	7
+skying	1	2	7
+sleepin	1	3
+sleeptime	1	8
+slingshot	1	7
+slowpitch	1	3
+soca	1	3
+soccer	1	3
+softball	1	3
+solos	1	3
+songs	1	3
+sparkpeople	1	3	5	6	8
+spiritualist	1	2	7
+spontaneity	1	4
+spontaneous	1	4
+spontaneously	1	4
+sport	1	3
+sports	1	3
+spotlighted	1	2	5
+spur	1	4
+spurted	1	7
+squee	1	7
+stairmaster	1	3
+steakhouse	1	3
+steps	1	5	6	8
+stessors	1	8
+stoked	1	7
+stoking	1	7
+stopwatch	1	3
+strat	1	2	7
+strategical	1	6
+strategising	1	6	7
+strides	1	5	6	8
+strive	1	2	5
+striving	1	2	5
+structure	1	8
+structured	1	8
+structuring	1	8
+struggle	1	6	7
+studier	1	7
+succeed	1	2	5
+success	1	2	5
+successes	1	2	5
+successful	1	2	5
+sucesses	1	2	5
+supportive	1	4	6	8
+surprises	1	4
+surrealist	1	2	7
+sushi	1	3
+sweepstakes	1	4	7
+sweet	1	4	6	8
+sympathic	1	2	7
+synths	1	3
+tackle	1	2	5
+tagalong	1	3
+talkative	1	7
+taqueria	1	3
+task	1	2	5
+tasks	1	2	5
+tball	1	7
+tbones	1	7
+tchotchkes	1	3
+techno	1	3
+tedtalks	1	2	7
+telepsychiatry	1	8
+tennis	1	3
+tenors	1	3
+tentative	1	4
+thespian	1	4	7
+thirtieth	1	3	7	8
+thoughtful	1	4	6	8
+thrilled	1	7
+ticket	1	4
+timeslot	1	8
+todoist	1	8
+tough	1	6	7
+tourney	1	3
+towpath	1	3
+trackable	1	5	6	8
+transcontinental	1	4
+travel	1	4
+traveling	1	2	7
+triathalon	1	4	7
+triathletes	1	3
+triathlon	1	3
+triathlons	1	3
+trip	1	4	6	8
+trombone	1	3
+truly	1	2	7
+tuba	1	3
+tuner	1	3
+turnarounds	1	8
+turncoat	1	7
+twelves	1	8
+twice	1	8
+udemy	1	3
+ukulele	1	3
+ultimate	1	5	6	8
+ultimately	1	4
+ultimatium	1	4
+ultramarathon	1	3
+unconditional	1	2	7
+unconditionally	1	2	7
+undefeated	1	3	4	7
+unplanned	1	4
+unvarnished	1	2	4	7
+upbeat	1	7
+upcoming	1	4	6	7	8
+uplifting	1	2	7
+valiant	1	5	6	7
+validate	1	2	4	7
+validation	1	2	4	7
+validations	1	2	4	7
+validator	1	6
+valleyfair	1	7
+value	1	6
+varsity	1	3
+vascillating	1	7
+vegfest	1	3	7
+vegi	1	3
+vested	1	6	7
+vexation	1	2
+victories	1	2	5
+victory	1	2	5
+violin	1	3
+virtuoso	1	3
+volleyball	1	3
+waiter	1	3
+waitress	1	3
+waivering	1	4
+wakeboard	1	7
+wakeups	1	8
+want	1	4	7
+watercoloring	1	3
+watercolours	1	3
+wednesdays	1	8
+week	1	8
+weekday	1	8
+weekdays	1	8
+weekly	1	8
+weightlift	1	3
+weightlifting	1	3
+weightwatchers	1	3	5	6	8
+whim	1	4
+whims	1	4
+wildness	1	4
+will	1	4	7
+willbe	1	4	6	8
+willing	1	6
+win	1	4	7
+windsurfing	1	3
+winners	1	4	7
+winning	1	4	7
+won	1	4	7
+wonderful	1	2	7
+woodshop	1	3
+woodworking	1	3
+work	1	8
+workflow	1	8
+workout	1	3
+workouts	1	3
+workpile	1	3
+world	1	6
+wows	1	7
+yields	1	7
+yoga	1	3
+yogas	1	7
+yogini	1	7
+zogsports	1	3	7
+zzzzs	1	3
